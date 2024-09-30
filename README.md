@@ -2,7 +2,7 @@ Analisis Variabel Tugas Pre-Processing Penambangan Data:
 
 Variabel yang tidak digunakan:
 - NO (nomor identifikasi, biasanya tidak digunakan dalam model)
-- NAMA (nama, biasanya juga tidak digunakan dalam model prediktif)
+- NAMA (nama, biasanya juga tidak digunakan dalam model)
 
 Variabel Atribut (fitur-fitur yang digunakan untuk memprediksi):
 - USIA
