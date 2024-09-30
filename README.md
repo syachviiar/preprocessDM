@@ -34,4 +34,4 @@ Menggunakan LabelEncoder untuk mengubah nilai "Ya"/"Tidak" atau kategori lain me
 7. Memeriksa hasil preprocessing:
 print(df.head())
 8. Menyimpan hasil preprocessing: 
-Dataset yang sudah dipreprocessing disimpan kembali ke CSV.
+Dataset yang sudah dipreprocessing disimpan kembali ke bentuk CSV.
